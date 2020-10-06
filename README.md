@@ -10,7 +10,7 @@ Check this [showcase screencast](https://www.youtube.com/watch?v=EFCmCFZKxJ4) to
 ![VNote](screenshots/vnote.png)
 
 # Downloads
-Users from China can download the latest release of VNote from [Baidu Netdisk](http://pan.baidu.com/s/1jI5HROq).
+Users from China can download the latest release of VNote from [Tianyi Netdisk](https://cloud.189.cn/t/Av67NvmEJVBv).
 
 ## Windows
 ### Official Zip
@@ -91,6 +91,7 @@ Utilizing Qt, VNote could run on **Linux**, **Windows**, and **macOS**.
 - [Github issues](https://github.com/tamlok/vnote/issues);
 - Email: `tamlokveer at gmail.com`;
 - [Slack](https://join.slack.com/t/vnote/shared_invite/enQtNDg2MzY0NDg3NzI4LTVhMzBlOTY0YzVhMmQyMTFmZDdhY2M3MDQxYTBjOTA2Y2IxOGRiZjg2NzdhMjkzYmUyY2VkMWJlZTNhMTQyODU);
+- [Telegram](https://t.me/vnotex);
 - WeChat Public Account: VNote笔记 (vnote_md);  
 ![VNote WeChat](screenshots/vnote_md.jpg)
 
@@ -216,7 +217,7 @@ In VNote, almost everything is configurable, such as background color, font, and
 - [markdown-it-container 2.0.0](https://github.com/markdown-it/markdown-it-container) (MIT License)
 - [mermaid 7.0.0](https://github.com/knsv/mermaid) (MIT License)
 - [MathJax](https://www.mathjax.org/) (Apache-2.0)
-- [showdown](https://github.com/showdownjs/showdown) (Unknown)
+- [showdown](https://github.com/showdownjs/showdown) (MIT License)
 - [flowchart.js](https://github.com/adrai/flowchart.js) (MIT License)
 - [PlantUML](http://plantuml.com/) (MIT License)
 - [dom-to-image](https://github.com/tsayen/dom-to-image) (MIT License)

@@ -14,6 +14,8 @@ DEFINES += QT_MESSAGELOGCONTEXT
 TARGET = VNote
 TEMPLATE = app
 
+CONFIG -= qtquickcompiler
+
 RC_ICONS = resources/icons/vnote.ico
 ICON = resources/icons/vnote.icns
 
@@ -163,7 +165,8 @@ SOURCES += main.cpp\
     widgets/vcombobox.cpp \
     vtablehelper.cpp \
     vtable.cpp \
-    dialog/vinserttabledialog.cpp
+    dialog/vinserttabledialog.cpp \
+    utils/vSync.cpp
 
 HEADERS  += vmainwindow.h \
     vapplication.h \
@@ -311,7 +314,8 @@ HEADERS  += vmainwindow.h \
     widgets/vcombobox.h \
     vtablehelper.h \
     vtable.h \
-    dialog/vinserttabledialog.h
+    dialog/vinserttabledialog.h \
+    utils/vSync.h
 
 RESOURCES += \
     vnote.qrc \

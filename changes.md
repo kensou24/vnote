@@ -1,4 +1,16 @@
 # Changes History
+## v2.10
+- Add support for Git push/pull; (@musmus9405)
+- Bug fixes; (@tootal, @hlyang1992)
+
+## v2.9.1
+- Fix start issue on macOS (no need to add `-m` option);
+
+## v2.9
+- Upgrade to MathJax v3;
+- Support `e` command in Vim mode; (@gydeng)
+- Fix start issue on macOS (no need to add `-m` option);
+
 ## v2.8.2
 - Upgrade Mermaid.js;
 
