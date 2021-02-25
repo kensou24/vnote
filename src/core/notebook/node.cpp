@@ -259,10 +259,16 @@ QDir Node::toDir() const
     if (isContainer()) {
         return QDir(fetchAbsolutePath());
     }
+    Q_ASSERT(false);
+    return QDir();
 }
 
 void Node::load()
 {
+    if (isLoaded()) {
+        return;
+    }
+
     getConfigMgr()->loadNode(this);
 }
 
